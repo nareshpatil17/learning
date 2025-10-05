@@ -7,3 +7,5 @@ console.log(age);
 const address = "noida";
 console.log("address initialized");
 
+const upi = "upi initialized";
+console.log(upi);
